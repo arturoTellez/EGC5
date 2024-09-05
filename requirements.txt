@@ -1,0 +1,5 @@
+python-ternary
+plotly
+scikit-learn
+pandas
+kaleido
